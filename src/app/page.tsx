@@ -6,7 +6,7 @@ export default function Page() {
       <section className="text-center mb-12">
         <h1 className="text-4xl font-bold mb-4">Personalized Learning for the IELTS</h1>
         <p className="text-lg">
-          Our AI tutor analyzes your strengths, weaknesses, and learning style to create a personalized study plan that helps you maximize your IELTS score. With adaptive practice questions and detailed performance tracking, you'll be better prepared than ever before.
+          Our AI tutor analyzes your strengths, weaknesses, and learning style to create a personalized study plan that helps you maximize your IELTS score. With adaptive practice questions and detailed performance tracking, you&apos;ll be better prepared than ever before.
         </p>
         <div className="inline-block bg-gray-200 text-gray-700 font-semibold py-2 px-4 rounded mt-4">
           Coming Soon
