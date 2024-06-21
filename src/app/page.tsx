@@ -15,7 +15,7 @@ export default function Page() {
       <section className="grid grid-cols-1 md:grid-cols-2 gap-8">
         <div>
           <h2 className="text-2xl font-semibold mb-2">Adaptive Practice</h2>
-          <p>Our AI tutor adjusts the difficulty of practice questions based on your performance, ensuring you’re always challenged at the right level.</p>
+          <p>Our AI tutor adjusts the difficulty of practice questions based on your performance, ensuring you&apos;re always challenged at the right level.</p>
         </div>
         <div>
           <Image src="/lauren-mancke-aOC7TSLb1o8-unsplash.jpg" alt="Adaptive practice" width={600} height={400} className="rounded-lg" />
@@ -29,7 +29,7 @@ export default function Page() {
         </div>
         <div>
           <h2 className="text-2xl font-semibold mb-2">Personalized Curriculum</h2>
-          <p>Our AI tutor creates a custom study plan based on your individual needs, ensuring you’re always working on the right skills and concepts.</p>
+          <p>Our AI tutor creates a custom study plan based on your individual needs, ensuring you&apos;re always working on the right skills and concepts.</p>
         </div>
       </section>
       <footer className="text-center mt-12">
